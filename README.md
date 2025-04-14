@@ -1,5 +1,5 @@
 # Getting Started
-The project has a dependecy on [eyes](https://github.com/edchapman88/eyes). Clone this repo and then follow the installation steps.
+The project has a dependecy on [eyes](https://github.com/alan-turing-institute/eyes). Clone this repo and then follow the installation steps.
 
 ## Installation
 Make a python virtual environment and install the project with:
